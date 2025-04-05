@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://www.apogeerockets.com/images/newsletter/Newsletter-580-Images/Newsletter-580-Figure-4-L.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    color: rgb(255, 255, 255);
+    padding: 80px;
+}
+
+.card{
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    padding:20px;
+}
+a{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    padding:5px;
+    text-decoration: none;
+}
