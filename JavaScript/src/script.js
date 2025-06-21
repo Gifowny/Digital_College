@@ -1,3 +1,10 @@
+var age;
+age = prompt("por favor insira a sua idade");
 
-console.log("Hello, World!");
-// This is a simple JavaScript file that logs a message to the console.
+function checkAge() {
+  if (age < 18) {
+    console.log("Você é menor de idade!!");
+  } else {
+    console.log("Acesso permitido.");
+  }
+}
