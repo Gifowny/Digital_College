@@ -2,7 +2,7 @@
 
 ##INTEGRAÇÕES
 
-### Integrar JavaScript de forma interna 
+### Integrar JavaScript de forma interna
 
 ~~~ javascript
 
