@@ -20,11 +20,11 @@
 ~~~
 
 ### Integrar JavaScript de forma interna
-
-~~~ javascript
 - Criar diretório ***src*** na raiz do projeto
 - Criar arquivo ***script.js*** na raiz do diretório ***src***
 - Integrar de forma externa o arquivo **script.js** no arquivo **index.html**
+
+~~~ javascript
 
 <!DOCTYPE html>
 <html lang="pt-BR">
